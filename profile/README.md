@@ -2,7 +2,7 @@
 
 ## Rebilly products
 - [Billing &mdash; a subscription billing platform](https://www.rebilly.com/docs/content/billing/)
-- [Payments &mdash; a payments orchestration platform](https://www.rebilly.com/docs/content/billing/)
+- [Payments &mdash; a payments orchestration platform](https://www.rebilly.com/docs/content/payments/)
 - [Risk &mdash; a risk management platform](https://www.rebilly.com/docs/content/risk-management/)
 
 ## Contact us
