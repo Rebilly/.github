@@ -1,9 +1,7 @@
 <a href="https://www.rebilly.com/docs/"> <img src="https://github.com/Rebilly/website/blob/main/images/rebillySocial.png" alt="Horse jumping" height="400" /> </a>
 
-## Rebilly products
-- [Billing &mdash; a subscription billing platform](https://www.rebilly.com/docs/content/billing/)
-- [Payments &mdash; a payments orchestration platform](https://www.rebilly.com/docs/content/payments/)
-- [Risk &mdash; a risk management platform](https://www.rebilly.com/docs/content/risk-management/)
+## Rebilly product
+- [Try Rebilly for free](https://www.rebilly.com/docs/tutorials/set-up)
 
 ## Contact us
 - [Get a demo](https://www.rebilly.com/get-a-demo/)
